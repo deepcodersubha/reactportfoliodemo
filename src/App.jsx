@@ -8,7 +8,7 @@ import About from "./routes/About"
 import Contact from "./routes/Contact"
 import Home from "./routes/Home"
 import Project from "./routes/Project"
-import NotFound from "./routes/NotFound"
+
 
 function App() {
   return (
